@@ -1,0 +1,20 @@
+.grey-card {
+  border: 1px solid black;
+  background-color: rgba(238, 238, 238, 0.7);
+  margin: 1em;
+  padding: 1em;
+}
+
+.custom-colors {
+  background-color: aqua !important;
+  color: black !important;
+}
+
+body {
+  background: url("https://cutewallpaper.org/21/ultra-hd-wallpaper/Ultra-HD-4K-Wallpapers-Wallpaper-Cave.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
